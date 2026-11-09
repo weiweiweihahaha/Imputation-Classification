@@ -24,7 +24,9 @@ Source code and supplementary materials for “ Better Imputation ≠ Better Cla
 |-- run_holoclean.sh                   # HoloClean runner
 |-- requirements.txt                   # core CPU and analysis dependencies
 |-- requirements-optional.txt          # optional method-specific dependencies
+|-- supplementary results.pdf.         # supplementary experimental results
 `-- base.yml                           # Linux Conda environment snapshot
+
 ```
 
 ## Environment Setup

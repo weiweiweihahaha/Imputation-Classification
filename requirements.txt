@@ -1,0 +1,8 @@
+# Core CPU workflow.
+numpy<2
+pandas>=2.0
+scipy
+scikit-learn==1.5.2
+matplotlib
+Pillow
+statsmodels

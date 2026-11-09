@@ -1,0 +1,501 @@
+row_id,aqs_site_id,date,latitude,longitude,ozone_8hr_ppb,pm25_daily_mean_ug_m3,state_name,county_name,data_source,pm25_aqi_category
+0,010890014,2025-04-24,34.6917,-86.591698,31.0,7.3,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+1,450790007,2025-08-10,34.093899,-80.962196,23.0,3.7,South Carolina,Richland,South Carolina DES,good
+2,010890014,2025-04-30,34.6917,-86.591698,38.0,12.6,Alabama,Madison,Huntsville Natural Resources and Environmental Management,moderate
+3,010890014,2025-06-15,34.6917,-86.591698,23.0,5.8,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+4,090090027,2025-03-12,41.301288,-72.902685,44.0,3.5,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,good
+5,471570075,2025-02-16,35.151588,-89.85022,39.0,8.5,Tennessee,Shelby,Shelby County Health Department,good
+6,471570075,2025-06-07,35.151588,-89.85022,37.0,4.8,Tennessee,Shelby,Shelby County Health Department,good
+7,471570075,2025-02-22,35.151588,-89.85022,41.0,10.6,Tennessee,Shelby,Shelby County Health Department,moderate
+8,010730023,2025-04-09,33.5531,-86.815,53.0,6.3,Alabama,Jefferson,Jefferson County Department of Health,good
+9,051190007,2025-04-29,34.756058,-92.281034,35.0,4.7,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+10,450370001,2025-03-01,33.7397,-81.8536,57.0,12.2,South Carolina,Edgefield,South Carolina DES,moderate
+11,450370001,2025-07-02,33.7397,-81.8536,32.0,6.5,South Carolina,Edgefield,South Carolina DES,good
+12,010731010,2025-06-15,33.5453,-86.5492,26.0,5.9,Alabama,Jefferson,Jefferson County Department of Health,good
+13,180890022,2025-02-25,41.606563,-87.305015,38.0,13.7,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+14,010730023,2025-01-04,33.5531,-86.815,33.0,8.7,Alabama,Jefferson,Jefferson County Department of Health,good
+15,180890022,2025-08-24,41.606563,-87.305015,27.0,8.3,Indiana,Lake,Indiana Dept. of Environmental Management,good
+16,010732003,2025-04-17,33.4997,-86.9242,56.0,15.1,Alabama,Jefferson,Jefferson County Department of Health,moderate
+17,450790007,2025-01-29,34.093899,-80.962196,43.0,6.2,South Carolina,Richland,South Carolina DES,good
+18,450790007,2025-04-06,34.093899,-80.962196,36.0,8.2,South Carolina,Richland,South Carolina DES,good
+19,450370001,2025-05-03,33.7397,-81.8536,38.0,10.2,South Carolina,Edgefield,South Carolina DES,moderate
+20,061070009,2025-04-28,36.489399,-118.826897,41.0,2.4,California,Tulare,National Park Service,good
+21,132450091,2025-06-21,33.4333,-82.0219,45.0,8.8,Georgia,Richmond,Georgia Department of Natural Resources,good
+22,450790007,2025-03-27,34.093899,-80.962196,56.0,6.8,South Carolina,Richland,South Carolina DES,good
+23,010732003,2025-04-15,33.4997,-86.9242,51.0,9.8,Alabama,Jefferson,Jefferson County Department of Health,moderate
+24,010732003,2025-04-07,33.4997,-86.9242,20.0,3.3,Alabama,Jefferson,Jefferson County Department of Health,good
+25,132450091,2025-08-30,33.4333,-82.0219,37.0,11.7,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+26,010736002,2025-04-10,33.5783,-86.7739,62.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+27,051190007,2025-06-21,34.756058,-92.281034,22.0,13.2,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+28,450790007,2025-02-03,34.093899,-80.962196,33.0,10.6,South Carolina,Richland,South Carolina DES,moderate
+29,371290002,2025-05-30,34.364167,-77.838611,35.0,4.0,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+30,471570075,2025-01-10,35.151588,-89.85022,32.0,8.4,Tennessee,Shelby,Shelby County Health Department,good
+31,400019009,2025-03-04,35.750599,-94.669701,44.0,7.2,Oklahoma,Adair,Cherokee Nation,good
+32,180890022,2025-04-17,41.606563,-87.305015,45.0,7.5,Indiana,Lake,Indiana Dept. of Environmental Management,good
+33,371290002,2025-06-10,34.364167,-77.838611,30.0,5.0,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+34,132450091,2025-03-09,33.4333,-82.0219,37.0,4.8,Georgia,Richmond,Georgia Department of Natural Resources,good
+35,450790007,2025-02-21,34.093899,-80.962196,36.0,4.3,South Carolina,Richland,South Carolina DES,good
+36,010732003,2025-05-13,33.4997,-86.9242,31.0,6.5,Alabama,Jefferson,Jefferson County Department of Health,good
+37,450790007,2025-04-27,34.093899,-80.962196,46.0,7.0,South Carolina,Richland,South Carolina DES,good
+38,132450091,2025-06-20,33.4333,-82.0219,46.0,6.2,Georgia,Richmond,Georgia Department of Natural Resources,good
+39,010731010,2025-06-22,33.5453,-86.5492,38.0,6.8,Alabama,Jefferson,Jefferson County Department of Health,good
+40,061070009,2025-03-27,36.489399,-118.826897,36.0,1.2,California,Tulare,National Park Service,good
+41,400019009,2025-04-05,35.750599,-94.669701,33.0,3.3,Oklahoma,Adair,Cherokee Nation,good
+42,180890022,2025-02-22,41.606563,-87.305015,38.0,10.9,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+43,132450091,2025-08-16,33.4333,-82.0219,36.0,6.6,Georgia,Richmond,Georgia Department of Natural Resources,good
+44,051190007,2025-02-27,34.756058,-92.281034,47.0,11.5,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+45,471570075,2025-03-04,35.151588,-89.85022,47.0,12.9,Tennessee,Shelby,Shelby County Health Department,moderate
+46,450790007,2025-09-19,34.093899,-80.962196,53.0,12.8,South Carolina,Richland,South Carolina DES,moderate
+47,010731010,2025-05-24,33.5453,-86.5492,43.0,5.7,Alabama,Jefferson,Jefferson County Department of Health,good
+48,450370001,2025-04-16,33.7397,-81.8536,48.0,7.4,South Carolina,Edgefield,South Carolina DES,good
+49,180890022,2025-04-30,41.606563,-87.305015,31.0,5.7,Indiana,Lake,Indiana Dept. of Environmental Management,good
+50,471570075,2025-05-25,35.151588,-89.85022,42.0,3.9,Tennessee,Shelby,Shelby County Health Department,good
+51,371290002,2025-07-09,34.364167,-77.838611,22.0,3.8,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+52,132450091,2025-04-26,33.4333,-82.0219,36.0,9.2,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+53,471570075,2025-01-25,35.151588,-89.85022,46.0,5.0,Tennessee,Shelby,Shelby County Health Department,good
+54,180890022,2025-07-26,41.606563,-87.305015,27.0,5.7,Indiana,Lake,Indiana Dept. of Environmental Management,good
+55,450790007,2025-01-05,34.093899,-80.962196,34.0,8.9,South Carolina,Richland,South Carolina DES,good
+56,010736002,2025-05-10,33.5783,-86.7739,33.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+57,010736002,2025-06-07,33.5783,-86.7739,30.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+58,371290002,2025-06-22,34.364167,-77.838611,29.0,3.0,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+59,090090027,2025-03-18,41.301288,-72.902685,39.0,3.6,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,good
+60,090090027,2025-01-01,41.301288,-72.902685,35.0,3.4,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,good
+61,471570075,2025-04-18,35.151588,-89.85022,49.0,11.4,Tennessee,Shelby,Shelby County Health Department,moderate
+62,471570075,2025-02-05,35.151588,-89.85022,24.0,22.6,Tennessee,Shelby,Shelby County Health Department,moderate
+63,450790007,2025-03-08,34.093899,-80.962196,50.0,15.3,South Carolina,Richland,South Carolina DES,moderate
+64,400019009,2025-04-03,35.750599,-94.669701,43.0,3.6,Oklahoma,Adair,Cherokee Nation,good
+65,010730023,2025-06-13,33.5531,-86.815,19.0,6.0,Alabama,Jefferson,Jefferson County Department of Health,good
+66,471570075,2025-01-06,35.151588,-89.85022,32.0,3.8,Tennessee,Shelby,Shelby County Health Department,good
+67,010730023,2025-02-03,33.5531,-86.815,43.0,15.2,Alabama,Jefferson,Jefferson County Department of Health,moderate
+68,010731010,2025-05-13,33.5453,-86.5492,36.0,6.2,Alabama,Jefferson,Jefferson County Department of Health,good
+69,010731005,2025-04-04,33.3311,-87.0036,28.0,6.3,Alabama,Jefferson,Jefferson County Department of Health,good
+70,371290002,2025-03-20,34.364167,-77.838611,49.0,10.8,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,moderate
+71,450370001,2025-07-31,33.7397,-81.8536,38.0,7.0,South Carolina,Edgefield,South Carolina DES,good
+72,371290002,2025-07-31,34.364167,-77.838611,32.0,5.4,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+73,051190007,2025-04-27,34.756058,-92.281034,38.0,6.0,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+74,132450091,2025-07-03,33.4333,-82.0219,44.0,6.9,Georgia,Richmond,Georgia Department of Natural Resources,good
+75,371290002,2025-05-15,34.364167,-77.838611,49.0,7.3,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+76,180890022,2025-03-08,41.606563,-87.305015,40.0,7.8,Indiana,Lake,Indiana Dept. of Environmental Management,good
+77,400019009,2025-01-30,35.750599,-94.669701,25.0,2.3,Oklahoma,Adair,Cherokee Nation,good
+78,450370001,2025-02-11,33.7397,-81.8536,26.0,5.2,South Carolina,Edgefield,South Carolina DES,good
+79,180890022,2025-01-28,41.606563,-87.305015,30.0,6.1,Indiana,Lake,Indiana Dept. of Environmental Management,good
+80,051190007,2025-09-18,34.756058,-92.281034,59.0,13.0,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+81,010731005,2025-06-10,33.3311,-87.0036,39.0,5.3,Alabama,Jefferson,Jefferson County Department of Health,good
+82,010731005,2025-03-20,33.3311,-87.0036,29.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+83,371290002,2025-08-08,34.364167,-77.838611,25.0,14.1,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,moderate
+84,371290002,2025-07-08,34.364167,-77.838611,34.0,4.4,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+85,471570075,2025-06-22,35.151588,-89.85022,30.0,15.1,Tennessee,Shelby,Shelby County Health Department,moderate
+86,132450091,2025-04-29,33.4333,-82.0219,42.0,7.3,Georgia,Richmond,Georgia Department of Natural Resources,good
+87,061070009,2025-07-28,36.489399,-118.826897,62.0,4.9,California,Tulare,National Park Service,good
+88,450370001,2025-02-08,33.7397,-81.8536,23.0,10.2,South Carolina,Edgefield,South Carolina DES,moderate
+89,010890014,2025-06-16,34.6917,-86.591698,25.0,5.7,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+90,132450091,2025-06-10,33.4333,-82.0219,31.0,5.6,Georgia,Richmond,Georgia Department of Natural Resources,good
+91,471570075,2025-02-23,35.151588,-89.85022,47.0,10.0,Tennessee,Shelby,Shelby County Health Department,moderate
+92,010731010,2025-05-15,33.5453,-86.5492,39.0,7.8,Alabama,Jefferson,Jefferson County Department of Health,good
+93,010730023,2025-02-17,33.5531,-86.815,41.0,7.2,Alabama,Jefferson,Jefferson County Department of Health,good
+94,020900034,2025-06-17,64.8458,-147.72727,42.0,13.6,Alaska,Fairbanks North Star,State of Alaska DEC,moderate
+95,450790007,2025-06-03,34.093899,-80.962196,57.0,15.1,South Carolina,Richland,South Carolina DES,moderate
+96,010736002,2025-04-25,33.5783,-86.7739,36.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+97,132450091,2025-03-12,33.4333,-82.0219,55.0,16.4,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+98,010731010,2025-05-11,33.5453,-86.5492,44.0,3.3,Alabama,Jefferson,Jefferson County Department of Health,good
+99,010732003,2025-06-22,33.4997,-86.9242,47.0,7.6,Alabama,Jefferson,Jefferson County Department of Health,good
+100,051190007,2025-07-28,34.756058,-92.281034,36.0,8.9,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+101,180890022,2025-07-14,41.606563,-87.305015,80.0,34.7,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+102,450790007,2025-04-24,34.093899,-80.962196,22.0,10.8,South Carolina,Richland,South Carolina DES,moderate
+103,471570075,2025-01-27,35.151588,-89.85022,37.0,5.1,Tennessee,Shelby,Shelby County Health Department,good
+104,051190007,2025-05-09,34.756058,-92.281034,45.0,4.9,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+105,450370001,2025-05-23,33.7397,-81.8536,53.0,3.8,South Carolina,Edgefield,South Carolina DES,good
+106,471570075,2025-06-13,35.151588,-89.85022,38.0,4.2,Tennessee,Shelby,Shelby County Health Department,good
+107,450370001,2025-08-15,33.7397,-81.8536,34.0,5.0,South Carolina,Edgefield,South Carolina DES,good
+108,450790007,2025-09-24,34.093899,-80.962196,49.0,9.6,South Carolina,Richland,South Carolina DES,moderate
+109,010732003,2025-03-27,33.4997,-86.9242,55.0,14.9,Alabama,Jefferson,Jefferson County Department of Health,moderate
+110,010730023,2025-05-07,33.5531,-86.815,38.0,10.1,Alabama,Jefferson,Jefferson County Department of Health,moderate
+111,010730023,2025-05-18,33.5531,-86.815,36.0,7.7,Alabama,Jefferson,Jefferson County Department of Health,good
+112,051190007,2025-03-28,34.756058,-92.281034,46.0,14.7,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+113,051190007,2025-03-10,34.756058,-92.281034,48.0,9.8,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+114,010731005,2025-04-28,33.3311,-87.0036,41.0,7.8,Alabama,Jefferson,Jefferson County Department of Health,good
+115,450370001,2025-09-11,33.7397,-81.8536,45.0,8.3,South Carolina,Edgefield,South Carolina DES,good
+116,010731010,2025-03-11,33.5453,-86.5492,56.0,9.6,Alabama,Jefferson,Jefferson County Department of Health,moderate
+117,061070009,2025-06-18,36.489399,-118.826897,81.0,8.5,California,Tulare,National Park Service,good
+118,400019009,2025-03-02,35.750599,-94.669701,44.0,13.9,Oklahoma,Adair,Cherokee Nation,moderate
+119,010730023,2025-02-06,33.5531,-86.815,17.0,8.9,Alabama,Jefferson,Jefferson County Department of Health,good
+120,010890014,2025-03-05,34.6917,-86.591698,32.0,4.4,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+121,450370001,2025-08-28,33.7397,-81.8536,45.0,9.4,South Carolina,Edgefield,South Carolina DES,moderate
+122,061070009,2025-03-11,36.489399,-118.826897,47.0,1.2,California,Tulare,National Park Service,good
+123,471570075,2025-01-13,35.151588,-89.85022,36.0,7.8,Tennessee,Shelby,Shelby County Health Department,good
+124,010730023,2025-06-10,33.5531,-86.815,37.0,10.0,Alabama,Jefferson,Jefferson County Department of Health,moderate
+125,450790007,2025-07-07,34.093899,-80.962196,54.0,10.1,South Carolina,Richland,South Carolina DES,moderate
+126,090090027,2025-02-23,41.301288,-72.902685,43.0,12.3,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,moderate
+127,450370001,2025-02-23,33.7397,-81.8536,44.0,15.9,South Carolina,Edgefield,South Carolina DES,moderate
+128,450790007,2025-06-21,34.093899,-80.962196,48.0,8.0,South Carolina,Richland,South Carolina DES,good
+129,400019009,2025-05-27,35.750599,-94.669701,23.0,2.8,Oklahoma,Adair,Cherokee Nation,good
+130,450790007,2025-08-12,34.093899,-80.962196,20.0,3.7,South Carolina,Richland,South Carolina DES,good
+131,471570075,2025-03-19,35.151588,-89.85022,46.0,9.4,Tennessee,Shelby,Shelby County Health Department,moderate
+132,400019009,2025-01-26,35.750599,-94.669701,32.0,8.4,Oklahoma,Adair,Cherokee Nation,good
+133,010730023,2025-01-01,33.5531,-86.815,34.0,4.3,Alabama,Jefferson,Jefferson County Department of Health,good
+134,371290002,2025-06-15,34.364167,-77.838611,26.0,4.3,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+135,090090027,2025-02-25,41.301288,-72.902685,38.0,9.5,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,moderate
+136,371290002,2025-06-27,34.364167,-77.838611,40.0,6.0,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+137,061070009,2025-07-26,36.489399,-118.826897,53.0,5.4,California,Tulare,National Park Service,good
+138,061070009,2025-06-07,36.489399,-118.826897,74.0,9.3,California,Tulare,National Park Service,moderate
+139,061070009,2025-03-23,36.489399,-118.826897,33.0,4.7,California,Tulare,National Park Service,good
+140,010731010,2025-05-25,33.5453,-86.5492,32.0,7.1,Alabama,Jefferson,Jefferson County Department of Health,good
+141,010890014,2025-05-20,34.6917,-86.591698,28.0,8.9,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+142,010732003,2025-06-03,33.4997,-86.9242,46.0,22.5,Alabama,Jefferson,Jefferson County Department of Health,moderate
+143,010732003,2025-04-10,33.4997,-86.9242,60.0,11.0,Alabama,Jefferson,Jefferson County Department of Health,moderate
+144,010730023,2025-04-19,33.5531,-86.815,53.0,14.1,Alabama,Jefferson,Jefferson County Department of Health,moderate
+145,061070009,2025-05-09,36.489399,-118.826897,66.0,6.2,California,Tulare,National Park Service,good
+146,090090027,2025-01-21,41.301288,-72.902685,33.0,5.5,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,good
+147,371290002,2025-09-04,34.364167,-77.838611,48.0,6.0,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+148,450370001,2025-06-09,33.7397,-81.8536,30.0,4.8,South Carolina,Edgefield,South Carolina DES,good
+149,450370001,2025-08-04,33.7397,-81.8536,27.0,7.0,South Carolina,Edgefield,South Carolina DES,good
+150,010731010,2025-04-16,33.5453,-86.5492,53.0,10.2,Alabama,Jefferson,Jefferson County Department of Health,moderate
+151,010731010,2025-05-23,33.5453,-86.5492,49.0,6.6,Alabama,Jefferson,Jefferson County Department of Health,good
+152,450370001,2025-05-09,33.7397,-81.8536,47.0,5.9,South Carolina,Edgefield,South Carolina DES,good
+153,010732003,2025-03-04,33.4997,-86.9242,48.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+154,010732003,2025-04-03,33.4997,-86.9242,25.0,8.7,Alabama,Jefferson,Jefferson County Department of Health,good
+155,371290002,2025-06-11,34.364167,-77.838611,31.0,3.9,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+156,051190007,2025-07-17,34.756058,-92.281034,41.0,15.2,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+157,180890022,2025-01-20,41.606563,-87.305015,27.0,6.0,Indiana,Lake,Indiana Dept. of Environmental Management,good
+158,180890022,2025-07-03,41.606563,-87.305015,61.0,12.5,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+159,010890014,2025-06-09,34.6917,-86.591698,30.0,5.7,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+160,471570075,2025-06-01,35.151588,-89.85022,59.0,7.7,Tennessee,Shelby,Shelby County Health Department,good
+161,010736002,2025-03-24,33.5783,-86.7739,41.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+162,010731005,2025-06-06,33.3311,-87.0036,35.0,6.8,Alabama,Jefferson,Jefferson County Department of Health,good
+163,051190007,2025-08-28,34.756058,-92.281034,25.0,3.3,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+164,180890022,2025-04-08,41.606563,-87.305015,40.0,6.4,Indiana,Lake,Indiana Dept. of Environmental Management,good
+165,180890022,2025-07-17,41.606563,-87.305015,33.0,5.9,Indiana,Lake,Indiana Dept. of Environmental Management,good
+166,051190007,2025-06-29,34.756058,-92.281034,38.0,9.1,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+167,471570075,2025-01-29,35.151588,-89.85022,37.0,11.0,Tennessee,Shelby,Shelby County Health Department,moderate
+168,010890014,2025-06-30,34.6917,-86.591698,25.0,6.4,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+169,010730023,2025-01-23,33.5531,-86.815,34.0,18.9,Alabama,Jefferson,Jefferson County Department of Health,moderate
+170,051190007,2025-03-05,34.756058,-92.281034,40.0,2.8,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+171,010736002,2025-04-18,33.5783,-86.7739,63.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+172,132450091,2025-06-08,33.4333,-82.0219,36.0,6.8,Georgia,Richmond,Georgia Department of Natural Resources,good
+173,010890014,2025-05-23,34.6917,-86.591698,45.0,3.3,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+174,061070009,2025-09-30,36.489399,-118.826897,49.0,4.0,California,Tulare,National Park Service,good
+175,371290002,2025-06-25,34.364167,-77.838611,44.0,15.2,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,moderate
+176,051190007,2025-09-09,34.756058,-92.281034,60.0,8.3,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+177,450370001,2025-06-03,33.7397,-81.8536,56.0,18.0,South Carolina,Edgefield,South Carolina DES,moderate
+178,061070009,2025-03-01,36.489399,-118.826897,49.0,3.0,California,Tulare,National Park Service,good
+179,180890022,2025-01-23,41.606563,-87.305015,25.0,10.4,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+180,051190007,2025-01-03,34.756058,-92.281034,27.0,12.8,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+181,132450091,2025-07-26,33.4333,-82.0219,34.0,5.3,Georgia,Richmond,Georgia Department of Natural Resources,good
+182,051190007,2025-08-23,34.756058,-92.281034,46.0,6.0,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+183,371290002,2025-05-16,34.364167,-77.838611,41.0,12.2,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,moderate
+184,400019009,2025-01-23,35.750599,-94.669701,37.0,9.5,Oklahoma,Adair,Cherokee Nation,moderate
+185,010731010,2025-06-13,33.5453,-86.5492,18.0,5.8,Alabama,Jefferson,Jefferson County Department of Health,good
+186,051190007,2025-01-20,34.756058,-92.281034,32.0,4.8,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+187,010730023,2025-01-18,33.5531,-86.815,32.0,16.3,Alabama,Jefferson,Jefferson County Department of Health,moderate
+188,450790007,2025-08-16,34.093899,-80.962196,37.0,7.3,South Carolina,Richland,South Carolina DES,good
+189,371290002,2025-07-05,34.364167,-77.838611,35.0,6.3,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+190,471570075,2025-04-14,35.151588,-89.85022,52.0,10.3,Tennessee,Shelby,Shelby County Health Department,moderate
+191,090090027,2025-02-10,41.301288,-72.902685,40.0,13.1,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,moderate
+192,450370001,2025-09-01,33.7397,-81.8536,39.0,4.6,South Carolina,Edgefield,South Carolina DES,good
+193,471570075,2025-05-17,35.151588,-89.85022,65.0,8.3,Tennessee,Shelby,Shelby County Health Department,good
+194,010736002,2025-03-13,33.5783,-86.7739,47.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+195,450790007,2025-03-31,34.093899,-80.962196,28.0,6.5,South Carolina,Richland,South Carolina DES,good
+196,450790007,2025-02-07,34.093899,-80.962196,33.0,11.3,South Carolina,Richland,South Carolina DES,moderate
+197,010736002,2025-03-20,33.5783,-86.7739,29.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+198,400019009,2025-04-23,35.750599,-94.669701,48.0,7.7,Oklahoma,Adair,Cherokee Nation,good
+199,061070009,2025-04-23,36.489399,-118.826897,58.0,6.8,California,Tulare,National Park Service,good
+200,010890014,2025-04-01,34.6917,-86.591698,35.0,4.6,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+201,371290002,2025-07-20,34.364167,-77.838611,34.0,6.2,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+202,450790007,2025-01-01,34.093899,-80.962196,33.0,2.2,South Carolina,Richland,South Carolina DES,good
+203,051190007,2025-09-20,34.756058,-92.281034,44.0,8.1,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+204,010736002,2025-04-04,33.5783,-86.7739,30.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+205,051190007,2025-05-25,34.756058,-92.281034,33.0,5.4,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+206,180890022,2025-07-02,41.606563,-87.305015,73.0,13.4,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+207,450370001,2025-09-30,33.7397,-81.8536,31.0,7.0,South Carolina,Edgefield,South Carolina DES,good
+208,010890014,2025-06-23,34.6917,-86.591698,41.0,9.6,Alabama,Madison,Huntsville Natural Resources and Environmental Management,moderate
+209,450790007,2025-03-12,34.093899,-80.962196,60.0,12.2,South Carolina,Richland,South Carolina DES,moderate
+210,400019009,2025-02-09,35.750599,-94.669701,27.0,8.4,Oklahoma,Adair,Cherokee Nation,good
+211,132450091,2025-07-12,33.4333,-82.0219,35.0,5.7,Georgia,Richmond,Georgia Department of Natural Resources,good
+212,010732003,2025-03-29,33.4997,-86.9242,41.0,20.8,Alabama,Jefferson,Jefferson County Department of Health,moderate
+213,132450091,2025-03-08,33.4333,-82.0219,48.0,13.7,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+214,450370001,2025-01-21,33.7397,-81.8536,32.0,6.0,South Carolina,Edgefield,South Carolina DES,good
+215,010732003,2025-02-28,33.4997,-86.9242,49.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+216,051190007,2025-05-02,34.756058,-92.281034,38.0,4.8,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+217,371290002,2025-06-21,34.364167,-77.838611,32.0,4.5,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+218,051190007,2025-05-07,34.756058,-92.281034,33.0,4.5,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+219,400019009,2025-05-06,35.750599,-94.669701,42.0,6.6,Oklahoma,Adair,Cherokee Nation,good
+220,280330002,2025-07-05,34.820633,-89.987782,51.0,13.8,Mississippi,DeSoto,Mississippi DEQ,moderate
+221,051190007,2025-03-24,34.756058,-92.281034,56.0,3.4,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+222,010731005,2025-04-15,33.3311,-87.0036,50.0,8.1,Alabama,Jefferson,Jefferson County Department of Health,good
+223,010736002,2025-06-20,33.5783,-86.7739,39.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+224,471570075,2025-05-04,35.151588,-89.85022,41.0,3.4,Tennessee,Shelby,Shelby County Health Department,good
+225,010730023,2025-02-02,33.5531,-86.815,39.0,10.0,Alabama,Jefferson,Jefferson County Department of Health,moderate
+226,051190007,2025-03-09,34.756058,-92.281034,41.0,6.7,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+227,450790007,2025-02-09,34.093899,-80.962196,32.0,10.6,South Carolina,Richland,South Carolina DES,moderate
+228,371290002,2025-04-22,34.364167,-77.838611,47.0,7.4,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+229,371290002,2025-08-20,34.364167,-77.838611,17.0,3.2,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+230,010890014,2025-05-15,34.6917,-86.591698,34.0,9.0,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+231,132450091,2025-08-04,33.4333,-82.0219,25.0,7.2,Georgia,Richmond,Georgia Department of Natural Resources,good
+232,180890022,2025-03-29,41.606563,-87.305015,36.0,8.7,Indiana,Lake,Indiana Dept. of Environmental Management,good
+233,010731005,2025-06-15,33.3311,-87.0036,28.0,5.5,Alabama,Jefferson,Jefferson County Department of Health,good
+234,061070009,2025-03-26,36.489399,-118.826897,50.0,1.7,California,Tulare,National Park Service,good
+235,010730023,2025-05-09,33.5531,-86.815,42.0,7.9,Alabama,Jefferson,Jefferson County Department of Health,good
+236,010731010,2025-05-20,33.5453,-86.5492,28.0,8.7,Alabama,Jefferson,Jefferson County Department of Health,good
+237,051190007,2025-07-21,34.756058,-92.281034,31.0,12.2,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+238,010736002,2025-04-22,33.5783,-86.7739,33.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+239,400019009,2025-02-26,35.750599,-94.669701,53.0,7.3,Oklahoma,Adair,Cherokee Nation,good
+240,010731010,2025-05-10,33.5453,-86.5492,30.0,5.4,Alabama,Jefferson,Jefferson County Department of Health,good
+241,132450091,2025-03-23,33.4333,-82.0219,55.0,15.7,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+242,132450091,2025-07-05,33.4333,-82.0219,51.0,15.5,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+243,010730023,2025-03-25,33.5531,-86.815,43.0,14.8,Alabama,Jefferson,Jefferson County Department of Health,moderate
+244,400019009,2025-06-20,35.750599,-94.669701,26.0,9.7,Oklahoma,Adair,Cherokee Nation,moderate
+245,010736002,2025-05-12,33.5783,-86.7739,41.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+246,010732003,2025-03-28,33.4997,-86.9242,57.0,26.3,Alabama,Jefferson,Jefferson County Department of Health,moderate
+247,471570075,2025-01-24,35.151588,-89.85022,39.0,6.6,Tennessee,Shelby,Shelby County Health Department,good
+248,450790007,2025-09-08,34.093899,-80.962196,40.0,6.2,South Carolina,Richland,South Carolina DES,good
+249,051190007,2025-05-08,34.756058,-92.281034,41.0,4.6,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+250,010731010,2025-05-14,33.5453,-86.5492,45.0,8.7,Alabama,Jefferson,Jefferson County Department of Health,good
+251,471570075,2025-06-24,35.151588,-89.85022,49.0,8.9,Tennessee,Shelby,Shelby County Health Department,good
+252,400019009,2025-03-05,35.750599,-94.669701,44.0,2.4,Oklahoma,Adair,Cherokee Nation,good
+253,051190007,2025-03-01,34.756058,-92.281034,45.0,9.2,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+254,061070009,2025-09-29,36.489399,-118.826897,56.0,5.5,California,Tulare,National Park Service,good
+255,010890014,2025-05-10,34.6917,-86.591698,34.0,4.8,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+256,051190007,2025-01-21,34.756058,-92.281034,35.0,7.2,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+257,132450091,2025-07-20,33.4333,-82.0219,30.0,6.5,Georgia,Richmond,Georgia Department of Natural Resources,good
+258,450790007,2025-08-11,34.093899,-80.962196,17.0,2.5,South Carolina,Richland,South Carolina DES,good
+259,051190007,2025-04-26,34.756058,-92.281034,37.0,6.3,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+260,010890014,2025-06-03,34.6917,-86.591698,47.0,20.5,Alabama,Madison,Huntsville Natural Resources and Environmental Management,moderate
+261,010730023,2025-06-07,33.5531,-86.815,31.0,9.1,Alabama,Jefferson,Jefferson County Department of Health,moderate
+262,450370001,2025-06-01,33.7397,-81.8536,48.0,16.1,South Carolina,Edgefield,South Carolina DES,moderate
+263,010730023,2025-03-24,33.5531,-86.815,43.0,6.2,Alabama,Jefferson,Jefferson County Department of Health,good
+264,371290002,2025-04-15,34.364167,-77.838611,50.0,13.8,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,moderate
+265,450370001,2025-09-14,33.7397,-81.8536,46.0,8.2,South Carolina,Edgefield,South Carolina DES,good
+266,061070009,2025-02-19,36.489399,-118.826897,38.0,0.3,California,Tulare,National Park Service,good
+267,051190007,2025-01-30,34.756058,-92.281034,10.0,6.7,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+268,010890014,2025-05-30,34.6917,-86.591698,43.0,4.2,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+269,450370001,2025-06-29,33.7397,-81.8536,39.0,7.3,South Carolina,Edgefield,South Carolina DES,good
+270,010736002,2025-04-07,33.5783,-86.7739,16.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+271,010730023,2025-02-14,33.5531,-86.815,34.0,9.5,Alabama,Jefferson,Jefferson County Department of Health,moderate
+272,450370001,2025-08-11,33.7397,-81.8536,17.0,4.1,South Carolina,Edgefield,South Carolina DES,good
+273,051190007,2025-06-01,34.756058,-92.281034,46.0,9.7,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+274,400019009,2025-05-31,35.750599,-94.669701,51.0,6.0,Oklahoma,Adair,Cherokee Nation,good
+275,061070009,2025-07-29,36.489399,-118.826897,63.0,7.0,California,Tulare,National Park Service,good
+276,180890022,2025-07-11,41.606563,-87.305015,40.0,7.1,Indiana,Lake,Indiana Dept. of Environmental Management,good
+277,450370001,2025-07-11,33.7397,-81.8536,37.0,6.1,South Carolina,Edgefield,South Carolina DES,good
+278,010736002,2025-05-04,33.5783,-86.7739,33.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+279,471570075,2025-05-12,35.151588,-89.85022,48.0,3.8,Tennessee,Shelby,Shelby County Health Department,good
+280,061070009,2025-09-26,36.489399,-118.826897,64.0,2.8,California,Tulare,National Park Service,good
+281,450790007,2025-09-13,34.093899,-80.962196,44.0,7.4,South Carolina,Richland,South Carolina DES,good
+282,051190007,2025-09-10,34.756058,-92.281034,55.0,8.6,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+283,371290002,2025-05-10,34.364167,-77.838611,44.0,6.8,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+284,051190007,2025-07-08,34.756058,-92.281034,26.0,8.6,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+285,400019009,2025-05-08,35.750599,-94.669701,35.0,3.7,Oklahoma,Adair,Cherokee Nation,good
+286,132450091,2025-08-21,33.4333,-82.0219,36.0,10.0,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+287,010736002,2025-05-16,33.5783,-86.7739,28.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+288,051190007,2025-08-09,34.756058,-92.281034,40.0,7.9,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+289,051190007,2025-06-30,34.756058,-92.281034,29.0,6.8,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+290,180890022,2025-03-27,41.606563,-87.305015,39.0,10.4,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+291,051190007,2025-03-31,34.756058,-92.281034,40.0,4.1,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+292,051190007,2025-05-16,34.756058,-92.281034,38.0,14.9,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+293,061070009,2025-06-09,36.489399,-118.826897,78.0,9.8,California,Tulare,National Park Service,moderate
+294,450790007,2025-08-08,34.093899,-80.962196,28.0,13.5,South Carolina,Richland,South Carolina DES,moderate
+295,090090027,2025-03-05,41.301288,-72.902685,45.0,8.1,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,good
+296,061070009,2025-03-31,36.489399,-118.826897,35.0,0.2,California,Tulare,National Park Service,good
+297,061070009,2025-05-28,36.489399,-118.826897,72.0,7.7,California,Tulare,National Park Service,good
+298,010731010,2025-06-02,33.5453,-86.5492,49.0,15.0,Alabama,Jefferson,Jefferson County Department of Health,moderate
+299,371290002,2025-03-10,34.364167,-77.838611,41.0,7.2,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+300,132450091,2025-06-04,33.4333,-82.0219,32.0,16.7,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+301,400019009,2025-01-17,35.750599,-94.669701,44.0,6.2,Oklahoma,Adair,Cherokee Nation,good
+302,471570075,2025-05-27,35.151588,-89.85022,25.0,4.3,Tennessee,Shelby,Shelby County Health Department,good
+303,400019009,2025-06-26,35.750599,-94.669701,37.0,4.9,Oklahoma,Adair,Cherokee Nation,good
+304,010730023,2025-01-26,33.5531,-86.815,29.0,27.1,Alabama,Jefferson,Jefferson County Department of Health,moderate
+305,051190007,2025-03-26,34.756058,-92.281034,57.0,9.3,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+306,051190007,2025-07-10,34.756058,-92.281034,39.0,10.1,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+307,010890014,2025-05-27,34.6917,-86.591698,22.0,4.4,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+308,450790007,2025-02-20,34.093899,-80.962196,36.0,11.4,South Carolina,Richland,South Carolina DES,moderate
+309,010732003,2025-04-11,33.4997,-86.9242,41.0,6.4,Alabama,Jefferson,Jefferson County Department of Health,good
+310,400019009,2025-03-07,35.750599,-94.669701,49.0,5.3,Oklahoma,Adair,Cherokee Nation,good
+311,371290002,2025-08-06,34.364167,-77.838611,27.0,1.1,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+312,450370001,2025-08-01,33.7397,-81.8536,37.0,5.3,South Carolina,Edgefield,South Carolina DES,good
+313,450790007,2025-07-08,34.093899,-80.962196,52.0,10.4,South Carolina,Richland,South Carolina DES,moderate
+314,450370001,2025-03-23,33.7397,-81.8536,56.0,7.7,South Carolina,Edgefield,South Carolina DES,good
+315,400019009,2025-01-11,35.750599,-94.669701,39.0,10.5,Oklahoma,Adair,Cherokee Nation,moderate
+316,051190007,2025-08-01,34.756058,-92.281034,32.0,8.3,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+317,371290002,2025-09-30,34.364167,-77.838611,30.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+318,061070009,2025-09-21,36.489399,-118.826897,74.0,6.5,California,Tulare,National Park Service,good
+319,450790007,2025-08-31,34.093899,-80.962196,41.0,8.8,South Carolina,Richland,South Carolina DES,good
+320,400019009,2025-03-11,35.750599,-94.669701,57.0,5.0,Oklahoma,Adair,Cherokee Nation,good
+321,471570075,2025-02-01,35.151588,-89.85022,25.0,4.8,Tennessee,Shelby,Shelby County Health Department,good
+322,180890022,2025-01-12,41.606563,-87.305015,32.0,10.5,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+323,010731005,2025-05-13,33.3311,-87.0036,33.0,4.4,Alabama,Jefferson,Jefferson County Department of Health,good
+324,051190007,2025-05-13,34.756058,-92.281034,48.0,5.2,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+325,450790007,2025-09-30,34.093899,-80.962196,33.0,7.5,South Carolina,Richland,South Carolina DES,good
+326,180890022,2025-04-02,41.606563,-87.305015,30.0,9.8,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+327,450370001,2025-08-21,33.7397,-81.8536,32.0,8.2,South Carolina,Edgefield,South Carolina DES,good
+328,450370001,2025-03-28,33.7397,-81.8536,51.0,9.1,South Carolina,Edgefield,South Carolina DES,moderate
+329,010732003,2025-03-08,33.4997,-86.9242,45.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+330,051190007,2025-01-19,34.756058,-92.281034,34.0,3.7,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+331,051190007,2025-06-14,34.756058,-92.281034,31.0,6.9,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+332,061070009,2025-07-17,36.489399,-118.826897,73.0,8.5,California,Tulare,National Park Service,good
+333,450370001,2025-03-04,33.7397,-81.8536,42.0,6.0,South Carolina,Edgefield,South Carolina DES,good
+334,180890022,2025-06-02,41.606563,-87.305015,59.0,15.1,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+335,450790007,2025-04-09,34.093899,-80.962196,49.0,7.2,South Carolina,Richland,South Carolina DES,good
+336,090090027,2025-03-21,41.301288,-72.902685,46.0,2.0,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,good
+337,051190007,2025-02-11,34.756058,-92.281034,21.0,3.4,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+338,132450091,2025-03-27,33.4333,-82.0219,53.0,9.5,Georgia,Richmond,Georgia Department of Natural Resources,moderate
+339,010732003,2025-03-23,33.4997,-86.9242,51.0,11.9,Alabama,Jefferson,Jefferson County Department of Health,moderate
+340,051190007,2025-06-13,34.756058,-92.281034,35.0,5.1,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+341,051190007,2025-09-15,34.756058,-92.281034,48.0,13.9,Arkansas,Pulaski,Arkansas Department of Environmental Quality,moderate
+342,280110002,2025-07-05,33.750833,-90.734167,54.0,11.2,Mississippi,Bolivar,Mississippi DEQ,moderate
+343,051190007,2025-09-30,34.756058,-92.281034,44.0,6.1,Arkansas,Pulaski,Arkansas Department of Environmental Quality,good
+344,090090027,2025-03-16,41.301288,-72.902685,41.0,8.4,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,good
+345,450790007,2025-01-09,34.093899,-80.962196,38.0,6.2,South Carolina,Richland,South Carolina DES,good
+346,471570075,2025-05-08,35.151588,-89.85022,42.0,5.4,Tennessee,Shelby,Shelby County Health Department,good
+347,371290002,2025-08-26,34.364167,-77.838611,38.0,7.5,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+348,061070009,2025-06-15,36.489399,-118.826897,72.0,6.5,California,Tulare,National Park Service,good
+349,010732003,2025-04-16,33.4997,-86.9242,50.0,7.4,Alabama,Jefferson,Jefferson County Department of Health,good
+350,400019009,2025-04-04,35.750599,-94.669701,23.0,3.2,Oklahoma,Adair,Cherokee Nation,good
+351,090090027,2025-01-08,41.301288,-72.902685,40.0,1.8,Connecticut,New Haven,Connecticut Dept. of Energy and Environmental Protection,good
+352,471570075,2025-03-26,35.151588,-89.85022,55.0,7.4,Tennessee,Shelby,Shelby County Health Department,good
+353,180890022,2025-05-23,41.606563,-87.305015,29.0,6.0,Indiana,Lake,Indiana Dept. of Environmental Management,good
+354,180890022,2025-04-12,41.606563,-87.305015,49.0,17.5,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+355,061070009,2025-01-05,36.489399,-118.826897,30.0,3.4,California,Tulare,National Park Service,good
+356,061070009,2025-04-13,36.489399,-118.826897,46.0,7.5,California,Tulare,National Park Service,good
+357,010890014,2025-06-07,34.6917,-86.591698,35.0,7.2,Alabama,Madison,Huntsville Natural Resources and Environmental Management,good
+358,010736002,2025-06-30,33.5783,-86.7739,29.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+359,371290002,2025-09-27,34.364167,-77.838611,15.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+360,010736002,2025-06-03,33.5783,-86.7739,51.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+361,010736002,2025-05-27,33.5783,-86.7739,30.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+362,010736002,2025-05-11,33.5783,-86.7739,49.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+363,010736002,2025-05-18,33.5783,-86.7739,36.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+364,010736002,2025-03-21,33.5783,-86.7739,46.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+365,010736002,2025-06-04,33.5783,-86.7739,42.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+366,010736002,2025-04-03,33.5783,-86.7739,28.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+367,010736002,2025-06-13,33.5783,-86.7739,23.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+368,010736002,2025-05-03,33.5783,-86.7739,37.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+369,010736002,2025-06-06,33.5783,-86.7739,32.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+370,010736002,2025-03-29,33.5783,-86.7739,44.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+371,010736002,2025-06-21,33.5783,-86.7739,32.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+372,010736002,2025-05-15,33.5783,-86.7739,37.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+373,010736002,2025-05-23,33.5783,-86.7739,49.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+374,010736002,2025-05-31,33.5783,-86.7739,48.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+375,010736002,2025-03-23,33.5783,-86.7739,52.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+376,010736002,2025-06-02,33.5783,-86.7739,52.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+377,371290002,2025-09-21,34.364167,-77.838611,43.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,moderate
+378,010736002,2025-06-26,33.5783,-86.7739,52.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+379,010736002,2025-05-25,33.5783,-86.7739,34.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+380,010736002,2025-04-29,33.5783,-86.7739,36.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+381,010731005,2025-03-25,33.3311,-87.0036,43.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+382,010736002,2025-04-13,33.5783,-86.7739,54.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+383,371290002,2025-09-22,34.364167,-77.838611,25.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+384,010731005,2025-03-19,33.3311,-87.0036,45.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+385,010732003,2025-03-05,33.4997,-86.9242,40.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+386,010736002,2025-06-19,33.5783,-86.7739,45.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+387,010736002,2025-06-23,33.5783,-86.7739,42.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+388,010736002,2025-05-13,33.5783,-86.7739,35.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+389,371290002,2025-07-27,34.364167,-77.838611,34.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,moderate
+390,010736002,2025-03-12,33.5783,-86.7739,56.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+391,010736002,2025-05-09,33.5783,-86.7739,39.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+392,010732003,2025-03-09,33.4997,-86.9242,37.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+393,010732003,2025-02-25,33.4997,-86.9242,47.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+394,371290002,2025-09-20,34.364167,-77.838611,42.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+395,371290002,2025-09-19,34.364167,-77.838611,45.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+396,010736002,2025-04-11,33.5783,-86.7739,40.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+397,371290002,2025-09-25,34.364167,-77.838611,33.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+398,010736002,2025-03-28,33.5783,-86.7739,60.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+399,010736002,2025-06-12,33.5783,-86.7739,39.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+400,010736002,2025-04-23,33.5783,-86.7739,29.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+401,371290002,2025-07-25,34.364167,-77.838611,32.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+402,010736002,2025-05-20,33.5783,-86.7739,28.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+403,010736002,2025-03-27,33.5783,-86.7739,57.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+404,010736002,2025-05-01,33.5783,-86.7739,40.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+405,010736002,2025-04-26,33.5783,-86.7739,29.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+406,010736002,2025-06-17,33.5783,-86.7739,23.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+407,010736002,2025-06-01,33.5783,-86.7739,48.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+408,010736002,2025-03-18,33.5783,-86.7739,54.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+409,010736002,2025-04-14,33.5783,-86.7739,56.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+410,010736002,2025-05-17,33.5783,-86.7739,39.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+411,010736002,2025-03-15,33.5783,-86.7739,35.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+412,010732003,2025-03-06,33.4997,-86.9242,42.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+413,010736002,2025-03-26,33.5783,-86.7739,48.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+414,010736002,2025-03-17,33.5783,-86.7739,41.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+415,010736002,2025-03-25,33.5783,-86.7739,40.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+416,010731005,2025-03-11,33.3311,-87.0036,53.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+417,010732003,2025-03-07,33.4997,-86.9242,48.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+418,371290002,2025-09-24,34.364167,-77.838611,28.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+419,010736002,2025-04-24,33.5783,-86.7739,38.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+420,010736002,2025-06-11,33.5783,-86.7739,45.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+421,010736002,2025-04-05,33.5783,-86.7739,33.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+422,010736002,2025-05-07,33.5783,-86.7739,38.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+423,010736002,2025-03-07,33.5783,-86.7739,47.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+424,010736002,2025-06-22,33.5783,-86.7739,50.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+425,371290002,2025-09-28,34.364167,-77.838611,23.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+426,010736002,2025-04-01,33.5783,-86.7739,42.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+427,371290002,2025-09-26,34.364167,-77.838611,29.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+428,010736002,2025-05-14,33.5783,-86.7739,47.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+429,010736002,2025-04-17,33.5783,-86.7739,61.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+430,010736002,2025-06-28,33.5783,-86.7739,43.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+431,010736002,2025-03-19,33.5783,-86.7739,44.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+432,010736002,2025-03-31,33.5783,-86.7739,31.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+433,010731005,2025-03-22,33.3311,-87.0036,55.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+434,010736002,2025-06-05,33.5783,-86.7739,36.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+435,010731005,2025-03-14,33.3311,-87.0036,42.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+436,010731005,2025-03-21,33.3311,-87.0036,46.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+437,010736002,2025-04-21,33.5783,-86.7739,33.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+438,371290002,2025-09-29,34.364167,-77.838611,19.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+439,010736002,2025-03-06,33.5783,-86.7739,40.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+440,010731005,2025-03-18,33.3311,-87.0036,51.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+441,010736002,2025-04-12,33.5783,-86.7739,45.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+442,010736002,2025-06-18,33.5783,-86.7739,25.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+443,010736002,2025-06-16,33.5783,-86.7739,38.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+444,010736002,2025-03-10,33.5783,-86.7739,45.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+445,010736002,2025-03-14,33.5783,-86.7739,41.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+446,010736002,2025-03-11,33.5783,-86.7739,50.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+447,010731005,2025-03-13,33.3311,-87.0036,46.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+448,010736002,2025-06-08,33.5783,-86.7739,36.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+449,010736002,2025-03-08,33.5783,-86.7739,43.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+450,010732003,2025-03-02,33.4997,-86.9242,43.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+451,010731005,2025-03-12,33.3311,-87.0036,55.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+452,010736002,2025-05-28,33.5783,-86.7739,35.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+453,010736002,2025-03-30,33.5783,-86.7739,29.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+454,010736002,2025-05-24,33.5783,-86.7739,43.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+455,010736002,2025-05-19,33.5783,-86.7739,32.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+456,010731005,2025-03-15,33.3311,-87.0036,35.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+457,010736002,2025-04-28,33.5783,-86.7739,39.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+458,010736002,2025-06-27,33.5783,-86.7739,47.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+459,010736002,2025-05-26,33.5783,-86.7739,46.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+460,010736002,2025-04-20,33.5783,-86.7739,45.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+461,010732003,2025-03-01,33.4997,-86.9242,49.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+462,010731005,2025-03-23,33.3311,-87.0036,53.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+463,371290002,2025-07-28,34.364167,-77.838611,37.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+464,010732003,2025-02-27,33.4997,-86.9242,46.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+465,010731005,2025-03-24,33.3311,-87.0036,39.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+466,010736002,2025-04-19,33.5783,-86.7739,52.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+467,010736002,2025-05-21,33.5783,-86.7739,40.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+468,010736002,2025-04-16,33.5783,-86.7739,50.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+469,010736002,2025-05-06,33.5783,-86.7739,51.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+470,010732003,2025-03-03,33.4997,-86.9242,47.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+471,010736002,2025-05-29,33.5783,-86.7739,38.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+472,010736002,2025-04-30,33.5783,-86.7739,46.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+473,010736002,2025-05-30,33.5783,-86.7739,33.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+474,010736002,2025-06-10,33.5783,-86.7739,39.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+475,010736002,2025-05-05,33.5783,-86.7739,43.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+476,010732003,2025-02-26,33.4997,-86.9242,53.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+477,010736002,2025-03-22,33.5783,-86.7739,51.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+478,010736002,2025-05-22,33.5783,-86.7739,49.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+479,010731005,2025-03-16,33.3311,-87.0036,39.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+480,010736002,2025-03-16,33.5783,-86.7739,39.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+481,010736002,2025-04-02,33.5783,-86.7739,26.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+482,371290002,2025-09-23,34.364167,-77.838611,31.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,good
+483,010736002,2025-03-09,33.5783,-86.7739,37.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+484,010731005,2025-03-10,33.3311,-87.0036,42.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+485,010736002,2025-04-27,33.5783,-86.7739,41.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+486,010736002,2025-06-09,33.5783,-86.7739,36.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+487,010736002,2025-06-25,33.5783,-86.7739,44.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+488,010736002,2025-04-06,33.5783,-86.7739,38.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+489,180890022,2025-06-24,41.606563,-87.305015,55.0,,Indiana,Lake,Indiana Dept. of Environmental Management,moderate
+490,371290002,2025-07-26,34.364167,-77.838611,33.0,,North Carolina,New Hanover,North Carolina DEQ - Division of Air Quality,moderate
+491,010736002,2025-04-08,33.5783,-86.7739,48.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+492,010736002,2025-04-09,33.5783,-86.7739,53.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+493,010736002,2025-06-24,33.5783,-86.7739,57.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+494,010736002,2025-04-15,33.5783,-86.7739,47.0,,Alabama,Jefferson,Jefferson County Department of Health,moderate
+495,010736002,2025-05-08,33.5783,-86.7739,48.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+496,010736002,2025-06-29,33.5783,-86.7739,37.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+497,010736002,2025-06-15,33.5783,-86.7739,26.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+498,010731005,2025-03-17,33.3311,-87.0036,39.0,,Alabama,Jefferson,Jefferson County Department of Health,good
+499,010736002,2025-05-02,33.5783,-86.7739,38.0,,Alabama,Jefferson,Jefferson County Department of Health,good

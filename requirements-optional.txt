@@ -1,0 +1,44 @@
+-r requirements.txt
+
+# Tree and classical imputation methods
+lightgbm
+xgboost
+missingpy
+fancyimpute
+networkx
+scikit-fuzzy
+minisom
+pyitlib
+gplearn==0.4.2
+linearmodels
+pyhdfe
+
+# Legacy TensorFlow methods (MIWAE and VAEI)
+tensorflow==2.15.1
+tensorflow-probability==0.23.0
+keras==2.15.0
+
+# PyTorch, GINN, and optimal-transport methods
+torch
+torchvision
+torchaudio
+torchdata==0.7.1
+dgl
+gensim
+geomloss
+tqdm
+
+# NOMI
+hnswlib
+jax
+jaxlib
+neural-tangents
+
+# External-runtime bridges and utilities
+rpy2
+psycopg2-binary
+SQLAlchemy<2
+pydantic
+python-Levenshtein
+python-constraint
+datawig
